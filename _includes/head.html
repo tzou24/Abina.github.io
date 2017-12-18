@@ -33,7 +33,7 @@
 <link rel="icon" href="{{site.favicon| prepend:site.baseurl}}">
 <link rel="stylesheet" href="{{ "https://dbarobin.com/css/main.css" | prepend: site.baseurl }}">
 <link rel="stylesheet" href="https://dbarobin.com/assets/awesome/css/font-awesome.min.css">
-<link rel="stylesheet" type="text/css" href="https://dbarobin.com/assets/css/robin.css">
+<link rel="stylesheet" type="text/css" href="https://{{site.enforce_ssl}}/assets/css/robin.css">
 <!--
 <link rel="stylesheet" type="text/css" href="/assets/css/fonts-open-sans.css">
 -->
@@ -42,7 +42,7 @@
 
 <!-- Force using https. -->
 <script type="text/javascript">
-    var host = "dbarobin.com";
+    var host = "tzou24.github.io";
     if ((host == window.location.host) && (window.location.protocol != "https:"))
         window.location.protocol = "https";
 </script>
