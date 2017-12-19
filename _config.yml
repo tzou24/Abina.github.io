@@ -18,7 +18,8 @@ github_username:  tzou24
 favicon:     "/images/favicon.ico"
 aboutme: Yaobin Zou, Quest for Truth.
 aboutme_photo: "/images/wentasy.png"
-google_analytics_key: UA-57297247-1
+#企业级的网站分析服务
+google_analytics_key: UA-111411674-1
 
 ### Site settings.
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown when ShowContactInfo == True.
