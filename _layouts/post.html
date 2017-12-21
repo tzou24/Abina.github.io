@@ -8,7 +8,6 @@ layout: default
     <h1 itemprop="name" class="post-title">{{ page.title }}</h1>
     <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
     <p class="post-meta">
-    	<!-- Ñ­»· -->
 	    {{ site.locales[site.default_locale].PostedInCategories }}
 		    {% for cat in page.categories %}
 		         {{cat}}{% unless page.categories.last == cat %}, {% endunless %}
