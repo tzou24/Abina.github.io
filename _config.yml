@@ -23,7 +23,7 @@ google_analytics_key: UA-111411674-1
 
 ### Site settings.
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown when ShowContactInfo == True.
-default_column: "two" # Blog style: two columns, if default_column != "two", you will see a one column blog.
+default_column: "one" # Blog style: two columns, if default_column != "two", you will see a one column blog.
 default_locale: "cn" # Blog sidebar language set, only include: English(en), Chinese (cn), Japanese (jp), Polish (pl) and Korean(kr).
 path: "/_data/comments" # Path which stored comments etc.
 
