@@ -4,8 +4,9 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: "Open Sans", "Helvetica", "Arial", sans-serif !important;
-$base-font-size:   16px;
+// $base-font-family: "Open Sans", "Helvetica", "Arial", sans-serif !important;
+$base-font-family: STFangSong, Helvetica, Arial, Vernada, Tahoma, STXihei, "Microsoft YaHei", "Songti SC", SimSun, Heiti, sans-serif;
+$base-font-size:   21px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.6em;
 
