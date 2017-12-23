@@ -130,7 +130,7 @@ permalink: /:year/:month/:day/:title/
 markdown: kramdown
 highlighter: rouge
 gems: [jekyll-paginate]
-paginate: 5
+paginate: 15
 excerpt_separator: <!--more-->
 
 ### Kramdown settings.
