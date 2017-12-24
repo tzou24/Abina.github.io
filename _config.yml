@@ -60,6 +60,7 @@ locales:
       PostDate: "| 发表时间: "
       WechatDBTalk: "微信公众号"
       WechatDonate: "微信捐赠"
+      read: "阅读"
     jp:
       Aboutme: " 著者 "
       Archives: " アーカイブ "

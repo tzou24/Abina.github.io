@@ -60,13 +60,13 @@ a{
 	background-color: #fff;
 	border: 1px solid #ddd;
 	border-radius: 6px;
-	width: 300px;
+	width: 299px;
 	height: 28px;
 	float: left;
 	z-index: 1;
 }
 #donateBox li {
-	width: 150px;
+	width: 149px;
 	float: left;
 	text-align: center;
 	border-left: 1px solid #ddd;
