@@ -20,7 +20,8 @@ aboutme: Yaobin Zou, Quest for Truth.
 aboutme_photo: "/images/wentasy.png"
 #企业级的网站分析服务
 google_analytics_key: UA-111411674-1
-date_format: "%a %e %b %Y, %l:%M %p"
+#date_format: "%a %e %b %Y, %l:%M %p"
+date_format: "%Y-%M-%d"
 ### Site settings.
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown when ShowContactInfo == True.
 default_column: "one" # Blog style: two columns, if default_column != "two", you will see a one column blog.
