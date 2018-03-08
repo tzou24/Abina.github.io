@@ -1,3 +1,4 @@
+---
 published: true
 author: Ybin
 layout: post
@@ -8,8 +9,7 @@ comment: true
 tags:
 
   - daily
-
-
+---
 
 `文/邹耀斌`
 
