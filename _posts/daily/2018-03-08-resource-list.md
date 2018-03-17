@@ -13,7 +13,6 @@ tags:
 
 `文/邹耀斌`
 
-## 优质资源清单
 
 #### 工具类
 
@@ -55,7 +54,7 @@ tags:
 - Google Chrome 谷歌浏览器 [http://www.chromeliulanqi.com/](http://www.chromeliulanqi.com/)
 - //TODO 谷歌浏览器扩展程序(待更新)
 
-####素材类
+#### 素材类
 
 - GIF 图片制作 [http://www.soogif.com/editor](http://www.soogif.com/editor)
 - 免费 PPT 模板 [http://www.ypppt.com/moban/shuzhi/](http://www.ypppt.com/moban/shuzhi/)
