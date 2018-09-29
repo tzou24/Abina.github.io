@@ -14,6 +14,9 @@ tags:
 `文/邹耀斌`
 
 
+互联网的好处是，能够将相同兴趣的人瞬间拉近。这里要感谢为世界创作价值的程序员们。然而其实互联网也是一个世界，里面充斥着许多不合格的产品以及被篡改过的答案，这个时候你需要去筛选掉那些令你厌烦的东西，因此我觉得你得需要一份自己的软件清单，一些让你用起来顺手，拥有美好体验的感觉。这种感觉很重要，如果现在你不觉得，以后你会慢慢的感觉到。所以我列了一些，希望对你有用。
+
+
 #### 工具类
 
 - 自定义个人导航(如果你不想用书签，可以使用这个) [https://www.goto-mars.com/](https://www.goto-mars.com/)
@@ -43,7 +46,7 @@ tags:
 - 酷壳网站，陈皓老师的个人博客站点，20 年软件开发经验 [https://coolshell.cn](https://coolshell.cn)
 - 电子书支援计划(丰富电子书资源)，关注公号「ebooksplan」获取密码 [https://cloud.ebooksplan.org](https://cloud.ebooksplan.org/index.php/login)
 - 温国兵的随想录(区块链技术) [https://dbarobin.com/](https://dbarobin.com/)
-- 古诗文网(原文，译文,查询) [https://www.gushiwen.org/](https://www.gushiwen.org/)
+- 古诗文网(原文，译文，查询) [https://www.gushiwen.org/](https://www.gushiwen.org/)
 
 #### 影音类
 
@@ -59,7 +62,7 @@ tags:
 - 石墨文档，多人协同 [https://shimo.im/](https://shimo.im/)
 - 蚂蚁金服-语雀，个人知识库 [https://www.yuque.com/](https://www.yuque.com/) 
 - Evernote 印象笔记 [https://www.yinxiang.com/](https://www.yinxiang.com/)
-- 七牛云，可以存储个人数据，存储大小无限制 [https://portal.qiniu.com/signin](https://portal.qiniu.com/signin)
+- 七牛云，可以存储个人数据，存储空间无限制 [https://portal.qiniu.com/signin](https://portal.qiniu.com/signin)
 - 滴答清单,达成更多，用心生活,规划任务工具 [https://ticktick.com/](https://ticktick.com/)
 - 金数据 可以实现简单的产品订购表单提交(收费) [https://jinshuju.net/home](https://jinshuju.net/home)
 - balabolka 文字转语音(读变听) [http://www.cross-plus-a.com/balabolka.htm](http://www.cross-plus-a.com/balabolka.htm)
