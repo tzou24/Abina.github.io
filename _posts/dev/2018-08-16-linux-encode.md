@@ -95,7 +95,7 @@ Change Settings -> Window -> Translation -> Remote character set
 
 
 
-成都 - 多云
+成都 - 多云  
 
 
 
