@@ -1,6 +1,6 @@
 ---
 published: true
-author: Ybin
+author: Yaobin
 layout: post
 title: 优质资源清单
 categories: 日常
