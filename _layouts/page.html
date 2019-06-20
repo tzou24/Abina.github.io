@@ -11,8 +11,23 @@ layout: default
     {{ content }}
   </article>
 
-  {% if page.comments %}
-  {% include comments.html %}
-  {% endif %}
+    <!--{% if page.comments %}-->
+  <!--{% include comments.html %}-->
+  <!--{% endif %}-->
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  
+  owner: 'tzou24',
+  repo: 'tzou24.github.io/download',
+  oauth: {
+    client_id: '29b96a99d933e0efe58d',
+    client_secret: '12c9a7be959055e7f7975ddf0bbd578a822c4e93',
+  },
+})
+gitment.render('container')
+</script>
 
 </div> 
