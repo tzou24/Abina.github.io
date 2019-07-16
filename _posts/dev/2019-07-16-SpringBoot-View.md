@@ -2,7 +2,7 @@
 published: true
 author: YaoBin Zou
 layout: post
-title: Springboot 视图层整合
+title: SpringBoot 视图层整合
 categories: 开发
 summary:
 comment: true
