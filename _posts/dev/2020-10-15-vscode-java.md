@@ -2,7 +2,7 @@
 published: true
 author: YaoBin Zou
 layout: post
-title: SpringBoot 视图层整合
+title: VSCode 编辑器 java 开发
 categories: 开发
 summary:
 comment: true
@@ -10,7 +10,7 @@ tags:
   - dev
 ---
 
-VSCode 编辑器 java 开发
+## VSCode 编辑器 java 开发
 ### 下载
 进入官方网站进行下载
 > code.visualstudio.com
